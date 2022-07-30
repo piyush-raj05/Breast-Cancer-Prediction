@@ -1,6 +1,7 @@
 
 <h1> Breast Cancer Prediction </h1>
-<h2> Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classifier that can help diagnose patients and predict the likelihood of breast cancer. </h2>
+<h2> Using the Breast Cancer Wisconsin (Diagnostic) Database, we can create a classifier that can help diagnose patients and predict the likelihood of breast cancer.
+<center><img src="cancer.png"><center></h2>
 
 This directory includes a few sample datasets to get you started.
 
